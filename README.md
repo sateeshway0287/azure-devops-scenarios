@@ -12,13 +12,13 @@ Whether you're preparing for interviews or actively delivering enterprise-grade 
 
 | Area                              | Role(s)                                    | File |
 |-----------------------------------|--------------------------------------------|------|
-| CI/CD Pipeline & Automation       | DevOps Engineer                            | [CI_CD_Pipeline_Automation.md](./CI_CD_Pipeline_Automation.md) |
-| Infrastructure as Code (IaC)      | Cloud Engineer / DevOps Engineer           | [Infrastructure_as_Code.md](./Infrastructure_as_Code.md) |
-| Monitoring, Logging & Alerting    | SRE / DevOps Engineer                      | [Monitoring_Logging_Alerting.md](./Monitoring_Logging_Alerting.md) |
-| Security & Compliance             | Security Architect                         | [Security_Compliance.md](./Security_Compliance.md) |
-| High Availability & Scalability   | Cloud Architect                            | [High_Availability_Scalability_DR.md](./High_Availability_Scalability_DR.md) |
-| Cost Optimization                 | FinOps / Cloud Architect                   | [Cost_Optimization.md](./Cost_Optimization.md) |
-| Containerization & Orchestration | DevOps Engineer / Platform Engineer        | [Containerization_Orchestration.md](./Containerization_Orchestration.md) |
+| 1. CI/CD Pipeline & Automation       | DevOps Engineer                            | [CI_CD_Pipeline_Automation.md](./CI_CD_Pipeline_Automation.md) |
+| 2. Infrastructure as Code (IaC)      | Cloud Engineer / DevOps Engineer           | [Infrastructure_as_Code.md](./Infrastructure_as_Code.md) |
+| 3. Monitoring, Logging & Alerting    | SRE / DevOps Engineer                      | [Monitoring_Logging_Alerting.md](./Monitoring_Logging_Alerting.md) |
+| 4. Security & Compliance             | Security Architect                         | [Security_Compliance.md](./Security_Compliance.md) |
+| 5. High Availability & Scalability   | Cloud Architect                            | [High_Availability_Scalability_DR.md](./High_Availability_Scalability_DR.md) |
+| 6. Cost Optimization                 | FinOps / Cloud Architect                   | [Cost_Optimization.md](./Cost_Optimization.md) |
+| 7. Containerization & Orchestration | DevOps Engineer / Platform Engineer        | [Containerization_Orchestration.md](./Containerization_Orchestration.md) |
 
 ---
 
