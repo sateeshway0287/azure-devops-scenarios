@@ -2,7 +2,7 @@
 
 > A curated, scenario-based guide to mastering **Azure-native DevOps practices**, mapped to real-world roles and interview questions.
 
-This repository contains over **190 real-world questions** across domains like CI/CD, Infrastructure as Code, Monitoring, Security, Cost Optimization, and Containerization — all focused on **Microsoft Azure**.
+This repository contains near  **200 real-world questions** across domains like CI/CD, Infrastructure as Code, Monitoring, Security, Cost Optimization, and Containerization — all focused on **Microsoft Azure**.
 
 Whether you're preparing for interviews or actively delivering enterprise-grade cloud solutions, this content is tailored to help you succeed.
 
